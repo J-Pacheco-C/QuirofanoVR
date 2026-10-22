@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af8380011d3c74b46af4f4c3812f21ed
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/Prefabs/ColliderShell.prefab
+  uploadId: 884512

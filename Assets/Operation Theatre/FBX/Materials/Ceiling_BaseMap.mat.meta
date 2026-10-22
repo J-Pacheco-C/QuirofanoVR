@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5db4802a06224a49a835bf275b918e5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/FBX/Materials/Ceiling_BaseMap.mat
+  uploadId: 884512

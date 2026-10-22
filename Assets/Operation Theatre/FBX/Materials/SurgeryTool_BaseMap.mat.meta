@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c498f91d2ade3c489e542ebb5a0b304
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/FBX/Materials/SurgeryTool_BaseMap.mat
+  uploadId: 884512

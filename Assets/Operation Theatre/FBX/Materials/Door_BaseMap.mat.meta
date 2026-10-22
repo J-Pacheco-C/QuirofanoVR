@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fd49cb897085da47b3970c6fcdf5c1e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/FBX/Materials/Door_BaseMap.mat
+  uploadId: 884512

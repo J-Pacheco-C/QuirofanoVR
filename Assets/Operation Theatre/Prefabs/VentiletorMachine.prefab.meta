@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 846ff2545aecdb342ba57021e7b21585
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/Prefabs/VentiletorMachine.prefab
+  uploadId: 884512

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23779672f75608d4d8639399b4995538
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/FBX/Materials/Planter_Pot_Diffuse.mat
+  uploadId: 884512

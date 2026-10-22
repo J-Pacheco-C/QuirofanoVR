@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ac91cc072b63664da9a90f1887b5bc0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/Prefabs/TelePhone.prefab
+  uploadId: 884512

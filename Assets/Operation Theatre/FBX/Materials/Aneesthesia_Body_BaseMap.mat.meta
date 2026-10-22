@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad48203c577fcc94bbceb79fa548b1e4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/FBX/Materials/Aneesthesia_Body_BaseMap.mat
+  uploadId: 884512

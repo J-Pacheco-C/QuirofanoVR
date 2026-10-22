@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0aa47c43a2765e64a9a98b03868164aa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/Prefabs/Tharmameter.prefab
+  uploadId: 884512

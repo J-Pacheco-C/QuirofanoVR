@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3adfec07bff98b40948f95f4ad17e2c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/Scene/Operation Theater/LightingData.asset
+  uploadId: 884512

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f764d6e0ae7df124d88c71377756fee2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/Prefabs/OperationLight.prefab
+  uploadId: 884512

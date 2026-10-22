@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3478ddf60cb1e644bbd14415f8189545
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/Prefabs/X_RayFlimViewer.prefab
+  uploadId: 884512

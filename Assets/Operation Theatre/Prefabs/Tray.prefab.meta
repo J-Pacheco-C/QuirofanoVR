@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c96af24e8a26f2a4287338184b74ca2a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/Prefabs/Tray.prefab
+  uploadId: 884512

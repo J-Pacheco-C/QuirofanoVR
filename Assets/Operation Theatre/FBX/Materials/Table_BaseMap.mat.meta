@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3260d89f6a42844d93b371dd231ace6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/FBX/Materials/Table_BaseMap.mat
+  uploadId: 884512

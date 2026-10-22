@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a643ea764b1c7ac41b42b91f0865a4dd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/FBX/Materials/Floor.mat
+  uploadId: 884512

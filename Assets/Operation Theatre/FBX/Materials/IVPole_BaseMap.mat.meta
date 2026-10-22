@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e67a31665e2ed0409d325a3fa9a0d3b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/FBX/Materials/IVPole_BaseMap.mat
+  uploadId: 884512

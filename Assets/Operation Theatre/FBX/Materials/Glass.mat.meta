@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da5f0ff75db340e40b4624e246b4bc10
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/FBX/Materials/Glass.mat
+  uploadId: 884512

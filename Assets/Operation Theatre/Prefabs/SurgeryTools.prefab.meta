@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51dc470e490c772418ac5b3ebb565800
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/Prefabs/SurgeryTools.prefab
+  uploadId: 884512

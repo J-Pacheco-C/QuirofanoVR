@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be4b82c643fbfd04aa42781338e54aa7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/Scene/OT Lighting Settings.lighting
+  uploadId: 884512

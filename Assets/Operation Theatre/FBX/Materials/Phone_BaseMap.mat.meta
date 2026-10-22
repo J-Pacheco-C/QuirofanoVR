@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6069c3bc4e51b224a8a5c8d3397a1ccd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/FBX/Materials/Phone_BaseMap.mat
+  uploadId: 884512

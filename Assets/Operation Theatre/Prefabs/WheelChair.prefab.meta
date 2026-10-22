@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 808c182ae2c58134a889c33c12f4393c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/Prefabs/WheelChair.prefab
+  uploadId: 884512

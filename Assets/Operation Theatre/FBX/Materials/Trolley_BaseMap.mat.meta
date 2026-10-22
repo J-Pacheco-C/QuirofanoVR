@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 268c7542f6dfafb41840dafbc8f582e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/FBX/Materials/Trolley_BaseMap.mat
+  uploadId: 884512

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 866d29bb075e61e4d9c3f0939ed3d129
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/Prefabs/Anesthesia.prefab
+  uploadId: 884512

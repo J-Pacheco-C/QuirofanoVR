@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ed027c18798de94aaed1d463c653f70
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 368364
+  packageName: Operation Theatre Room
+  packageVersion: 1.0
+  assetPath: Assets/Operation Theatre/FBX/Materials/Aneesthesia_Glass_BaseMap.mat
+  uploadId: 884512
