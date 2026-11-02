@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 010a0df001e87604cab4d03876974f35
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 363396
+  packageName: Plugs And Wires
+  packageVersion: 1.0.0
+  assetPath: Assets/Plugs_And_Wires/Built-in/Materials/Plugs_mat.mat
+  uploadId: 867700
